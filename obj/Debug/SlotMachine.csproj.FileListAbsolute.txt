@@ -1,0 +1,10 @@
+C:\Users\joel\Desktop\Function e\SlotMachine\obj\Debug\SlotMachine.csproj.AssemblyReference.cache
+C:\Users\joel\Desktop\Function e\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\joel\Desktop\Function e\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\joel\Desktop\Function e\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\joel\Desktop\Function e\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\joel\Desktop\Function e\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\joel\Desktop\Function e\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\joel\Desktop\Function e\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\joel\Desktop\Function e\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\joel\Desktop\Function e\SlotMachine\obj\Debug\SlotMachine.pdb
